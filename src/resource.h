@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by KazKbHookCpp.rc
+// Used by AmharicKeyboard.rc
 //
 #define IDC_MYICON                      2
 #define ID_DISABLE                      2
@@ -10,14 +10,14 @@
 #define ID_EXIT                         4
 #define ID_ABOUT3                       5
 #define ID_ABOUT1                       5
-#define IDD_KAZKBHOOKCPP_DIALOG         102
+#define IDD_AMHARICKEYBOARD_DIALOG         102
 #define IDS_APP_TITLE                   103
 #define IDD_ABOUTBOX                    103
 #define IDM_ABOUT                       104
 #define IDM_EXIT                        105
-#define IDI_KAZKBHOOKCPP                107
+#define IDI_AMHARICKEYBOARD                107
 #define IDI_SMALL                       108
-#define IDC_KAZKBHOOKCPP                109
+#define IDC_AMHARICKEYBOARD                109
 #define IDR_MAINFRAME                   128
 #define IDD_MAINDLG                     129
 #define ID_ENABLE                       1000
